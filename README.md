@@ -12,7 +12,7 @@ An open source block explorer written in node.js.
 *  [Florincoin](https://florincoin.info/info)
 *  [Maxcoin Explorer 1](https://explorer.maxcoinproject.net/)
 *  [Maxcoin Explorer 2](https://explorer2.maxcoinproject.net/)
-
+*  [Cryptoescudo](https://explorer.cryptoescudo.eu/)
 
 *note: If you would like your instance mentioned here contact me*
 
